@@ -14,6 +14,15 @@ const tankHeros = [
     
 ];
 
+// const tankHeros = [
+//     {
+//         hero1: 'DVA',
+//         hero1: 'Doomfist',
+//         hero1: 'Junker Queen'
+//     }
+// ];
+
+
 const damageHeros = [
     'Ashe',
     'Bastion',
